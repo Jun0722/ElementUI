@@ -11,4 +11,3 @@ Mock.mock('http://localhost:8080/menu',{
     'name':'menu',
     'order|10-20':12
 });
-
