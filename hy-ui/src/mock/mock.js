@@ -1,10 +1,4 @@
-import Mock from 'mockjs';
-
-Mock.mock('http://localhost:8080/login',{
-    data:{
-        'token':'123456788888'
-    } 
-});
+import Mock from 'mockjs'
 
 Mock.mock('http://localhost:8080/user',{
     'name':'@name',
