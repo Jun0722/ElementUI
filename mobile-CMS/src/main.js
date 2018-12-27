@@ -7,14 +7,19 @@ import MintUI from 'mint-ui'
 import 'mint-ui/lib/style.css'
 //mui.css
 import './lib/mui/css/mui.css'
+import './lib/mui/css/icons-extra.css'
+//vue-resource
+import VueResource from 'vue-resource'
 
 Vue.config.productionTip = false
 
 Vue.use(MintUI)
+Vue.use(VueResource)
+
 
 /* eslint-disable no-new */
 new Vue({
   el: '#app',
-  router,
+  router, //挂载路由对象
   render:c=>c(App)
 })
