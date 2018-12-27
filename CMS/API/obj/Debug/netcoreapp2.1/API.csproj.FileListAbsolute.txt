@@ -1,0 +1,13 @@
+/Users/xuanwang/Desktop/CMS/API/bin/Debug/netcoreapp2.1/API.deps.json
+/Users/xuanwang/Desktop/CMS/API/bin/Debug/netcoreapp2.1/API.runtimeconfig.json
+/Users/xuanwang/Desktop/CMS/API/bin/Debug/netcoreapp2.1/API.runtimeconfig.dev.json
+/Users/xuanwang/Desktop/CMS/API/bin/Debug/netcoreapp2.1/API.dll
+/Users/xuanwang/Desktop/CMS/API/bin/Debug/netcoreapp2.1/API.pdb
+/Users/xuanwang/Desktop/CMS/API/obj/Debug/netcoreapp2.1/API.csproj.CoreCompileInputs.cache
+/Users/xuanwang/Desktop/CMS/API/obj/Debug/netcoreapp2.1/API.RazorAssemblyInfo.cache
+/Users/xuanwang/Desktop/CMS/API/obj/Debug/netcoreapp2.1/API.RazorAssemblyInfo.cs
+/Users/xuanwang/Desktop/CMS/API/obj/Debug/netcoreapp2.1/API.AssemblyInfoInputs.cache
+/Users/xuanwang/Desktop/CMS/API/obj/Debug/netcoreapp2.1/API.AssemblyInfo.cs
+/Users/xuanwang/Desktop/CMS/API/obj/Debug/netcoreapp2.1/API.RazorTargetAssemblyInfo.cache
+/Users/xuanwang/Desktop/CMS/API/obj/Debug/netcoreapp2.1/API.dll
+/Users/xuanwang/Desktop/CMS/API/obj/Debug/netcoreapp2.1/API.pdb
