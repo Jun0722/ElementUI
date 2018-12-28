@@ -11823,11 +11823,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/xuanwang/Desktop/CMS/API/API.csproj",
+      "projectUniqueName": "/Users/xuanwang/Desktop/Vue_/CMS/API/API.csproj",
       "projectName": "API",
-      "projectPath": "/Users/xuanwang/Desktop/CMS/API/API.csproj",
+      "projectPath": "/Users/xuanwang/Desktop/Vue_/CMS/API/API.csproj",
       "packagesPath": "/Users/xuanwang/.nuget/packages/",
-      "outputPath": "/Users/xuanwang/Desktop/CMS/API/obj",
+      "outputPath": "/Users/xuanwang/Desktop/Vue_/CMS/API/obj",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

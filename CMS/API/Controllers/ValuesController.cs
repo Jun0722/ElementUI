@@ -4,20 +4,29 @@ using System.Linq;
 using System.Threading.Tasks;
 using API.Data.IRepository;
 using API.Models;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace API.Controllers
 {
+    /// <summary>
+    /// Values 控制器.
+    /// </summary>
     [Route("api/[controller]")]
+    [Authorize(Policy ="Admin")]
     [ApiController]
     public class ValuesController : ControllerBase
     {
         private readonly IUserRepository _userRepository;
+
         public ValuesController(IUserRepository userRepository)
         {
             _userRepository = userRepository;
         }
-        // GET api/values
+        /// <summary>
+        /// 获取全部
+        /// </summary>
+        /// <returns>The get.</returns>
         [HttpGet]
         public async Task<IActionResult> Get()
         {

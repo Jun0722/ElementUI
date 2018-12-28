@@ -1,11 +1,16 @@
-﻿<Properties StartupConfiguration="{09B0AAC4-4C0B-45BF-ADD4-B738E8CAEE11}|Default">
-  <MonoDevelop.Ide.Workbench />
+﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{09B0AAC4-4C0B-45BF-ADD4-B738E8CAEE11}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CMS Status">
+    <Files>
+      <File FileName="CMS Status" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.API PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore>
-      <Breakpoint file="/Users/xuanwang/Desktop/CMS/API/Controllers/HomeController.cs" relfile="API/Controllers/HomeController.cs" line="33" column="1" />
+      <Breakpoint file="/Users/xuanwang/Desktop/Vue_/CMS/API/Controllers/HomeController.cs" relfile="API/Controllers/HomeController.cs" line="33" column="1" />
+      <Breakpoint file="/Users/xuanwang/Desktop/Vue_/CMS/API/Common/Helper/Appsettings.cs" relfile="API/Common/Helper/Appsettings.cs" line="13" column="1" />
     </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
